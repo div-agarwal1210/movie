@@ -10,7 +10,7 @@ import Details from"./pages/details/Details";
 
 import Explore from"./pages/explore/Explore";
 import PageNotFound from"./pages/404/PageNotFound";
-import SearchResult from "./pages/searchResult/searchResult";
+import SearchResult from "./pages/searchResult/SearchResult";
 
 function App() {
 
